@@ -1,5 +1,5 @@
 #include <iostream>
 
 int main() {
-	std::cout << "Hello new World!" << std::endl;
+	std::cout << "Git Commit Get LIt!" << std::endl;
 }
